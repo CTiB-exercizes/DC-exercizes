@@ -1,6 +1,6 @@
 # Divide and Conquer Exercises
 
-Two hands-on exercises for practising the divide-and-conquer algorithms in Python.
+Two hands-on exercises for practising the divide-and-conquer algorithms in Python (contained in the `DC_exercizes.ipynb` notebook).
 
 ## Exercises
 
